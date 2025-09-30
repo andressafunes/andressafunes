@@ -38,17 +38,6 @@
 
 ---
 
-## 📊 Estatísticas de Batalha
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?andressafunesO&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?andressafunes&layout=compact&theme=radical" height="150"/>
-</p>
-
-
-
----
-
 ## 🌍 Onde me encontrar
 
 <p align="center">
